@@ -56,8 +56,5 @@
                 <Button Content="Click" Height="200" FontSize="{Binding Path=Value}" Background="#FF1B4FFF" />
             </StackPanel>
         </TabItem>
-        <TabItem Header="DataGrid" >
-            <Grid Background="#FFFFE8CA"/>
-        </TabItem>
     </TabControl>
 </Window>
